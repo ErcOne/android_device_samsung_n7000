@@ -47,7 +47,7 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/usr/keylayout/sec_key.kl:system/usr/keylayout/sec_key.kl \
     $(LOCAL_PATH)/usr/keylayout/sec_touchkey.kl:system/usr/keylayout/sec_touchkey.kl \
     $(LOCAL_PATH)/usr/keylayout/sii9234_rcp.kl:system/usr/keylayout/sii9234_rcp.kl \
-	$(LOCAL_PATH)/configs/excluded-input-devices.xml:system/etc/excluded-input-devices.xmll
+    $(LOCAL_PATH)/configs/excluded-input-devices.xml:system/etc/excluded-input-devices.xmll
 
 # Idc
 PRODUCT_COPY_FILES += \
